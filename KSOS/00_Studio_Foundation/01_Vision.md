@@ -14,30 +14,31 @@ AI dramatically reduces the cost of producing content, but it does not automatic
 ## North Star
 Children finish an episode wanting to explore the real world, while parents feel confident recommending every piece of content without hesitation.
 
+## Strategic Pillars
+### 1. Child Development
+Every creative decision should contribute positively to cognitive, emotional, language, or social development.
+
+### 2. Parent Trust
+Trust is earned over hundreds of interactions and can be lost in one poor decision.
+
+### 3. Experience Over Content
+The goal is not to publish videos but to create memorable experiences that continue after the screen turns off.
+
+### 4. Continuous Learning
+Every production is also an experiment that improves future productions.
+
 ## Success Definition
-A successful studio is measured by:
 - Child curiosity after viewing.
-- Parent trust over years, not weeks.
+- Parent trust over years.
 - Sustainable educational value.
-- Continuous learning from every release.
+- Continuous improvement.
 
 ## Decision Framework
-Before approving any creative decision ask:
 1. Does it benefit the child?
 2. Does it strengthen trust?
 3. Does it create a memorable experience?
-4. Is it consistent with KSOS philosophy?
-5. Will we still be proud of this decision five years from now?
-
-## Guiding Principles
-- Child-first decisions
-- Parent trust compounds
-- Learning through play
-- Discovery before explanation
-- Philosophy before technology
-
-## Scope
-This document will ultimately become the strategic foundation for every future system in KSOS.
+4. Is it aligned with KSOS philosophy?
+5. Would we make the same decision five years from now?
 
 ## Related
 - 02_Mission.md
