@@ -9,36 +9,37 @@ Define the enduring direction and identity of the studio.
 Build the world's most trusted research-driven preschool studio that creates joyful experiences children love and parents confidently recommend.
 
 ## Why This Exists
-AI dramatically reduces the cost of producing content, but it does not automatically produce experiences that are developmentally appropriate, emotionally meaningful, or trusted by families. KSOS exists to preserve judgment while technology evolves.
+AI dramatically reduces the cost of producing content, but judgment, trust and developmental quality remain scarce. KSOS protects those values.
 
 ## North Star
-Children finish an episode wanting to explore the real world, while parents feel confident recommending every piece of content without hesitation.
+Children leave the screen inspired to explore the real world, while parents never question whether our content is appropriate.
 
 ## Strategic Pillars
-### 1. Child Development
-Every creative decision should contribute positively to cognitive, emotional, language, or social development.
+1. Child Development
+2. Parent Trust
+3. Experience Over Content
+4. Continuous Learning
 
-### 2. Parent Trust
-Trust is earned over hundreds of interactions and can be lost in one poor decision.
+## What We Will NOT Optimize For
+- Clickbait thumbnails.
+- Artificial engagement loops.
+- Overstimulation for retention.
+- Short-term algorithm gains that reduce long-term trust.
+- Quantity over quality.
 
-### 3. Experience Over Content
-The goal is not to publish videos but to create memorable experiences that continue after the screen turns off.
-
-### 4. Continuous Learning
-Every production is also an experiment that improves future productions.
+## Vision Test
+Every major initiative should satisfy these questions:
+- Would a child genuinely benefit?
+- Would a parent recommend it?
+- Would the experience still feel valuable if algorithms changed tomorrow?
+- Does it increase trust?
+- Does it teach the studio something new?
 
 ## Success Definition
-- Child curiosity after viewing.
-- Parent trust over years.
-- Sustainable educational value.
+- Child curiosity.
+- Parent trust.
+- Sustainable educational impact.
 - Continuous improvement.
-
-## Decision Framework
-1. Does it benefit the child?
-2. Does it strengthen trust?
-3. Does it create a memorable experience?
-4. Is it aligned with KSOS philosophy?
-5. Would we make the same decision five years from now?
 
 ## Related
 - 02_Mission.md
