@@ -20,6 +20,48 @@ Children leave the screen inspired to explore the real world, while parents neve
 3. Experience Over Content
 4. Continuous Learning
 
+## Vision Hierarchy
+
+### Vision Pyramid
+
+```text
+                20-Year Vision
+                      │
+                10-Year Vision
+                      │
+               5-Year Objectives
+                      │
+                1-Year Outcomes
+                      │
+             Quarterly Priorities
+                      │
+            Weekly / Daily Execution
+```
+
+### 20-year vision
+Create a globally trusted preschool studio that shapes how early learning content is designed, produced, and experienced.
+
+### 10-year vision
+Become a leading studio for developmentally sound, high-trust, highly engaging children’s content with a strong multi-platform presence.
+
+### 5-year objectives
+- Build a recognizable and trusted brand in children’s learning content.
+- Establish repeatable creative and production systems.
+- Grow a durable audience and parent trust.
+- Expand the studio’s capabilities across formats and platforms.
+
+### 1-year outcomes
+- Launch a focused set of high-quality studio outputs.
+- Improve content quality, consistency, and production discipline.
+- Validate audience resonance and parent trust.
+- Strengthen internal workflows and review standards.
+
+### Quarterly priorities
+- Deliver the most important content initiatives for the quarter.
+- Improve one or two core systems at a time.
+- Measure what parents and children respond to.
+- Keep execution aligned with the annual outcomes.
+
 ## What We Will NOT Optimize For
 - Clickbait thumbnails.
 - Artificial engagement loops.
